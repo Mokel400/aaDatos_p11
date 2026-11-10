@@ -81,7 +81,6 @@ public class Principal {
                 System.out.println("");
                 System.out.println("Reto azul");
                 int cambiado1 = Azul.actualizarStock(conexion, 6, 25);
-                int
             }
         } catch (IOException e) {
             System.out.println("Error al leer la configuración: " + e.getMessage());
